@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
+    <string name="lets_roll">Let\'s Roll</string>
     <string name="one">1</string>
+
+    <!-- DUMMY STRINGS -->
+    <string name="button_clicked">Button Clicked</string>
 </resources>
